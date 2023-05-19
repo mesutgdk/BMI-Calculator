@@ -3,9 +3,10 @@
 
 #  BMI Calculator
 
-## The Goal
+*  My main goal is to develop an easy-to-use app that can calculate body mass index.
 
-The goal of this tutorial is to learn more about Optionals, solidify my understanding of the MVC design pattern and to introduce the concept of Classes. 
+![bmigiff](https://github.com/mesutgdk/BMI-Calculator/assets/112901255/9e1a437a-90c9-4462-b487-5411a05a2a88)
+
 
 ## What I learned
 
