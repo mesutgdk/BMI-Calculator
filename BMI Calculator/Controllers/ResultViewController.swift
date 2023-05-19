@@ -2,9 +2,6 @@
 //  ResultViewController.swift
 //  BMI Calculator
 //
-//  Created by mesut on 4.10.2022.
-//  Copyright © 2022 Angela Yu. All rights reserved.
-//
 
 import UIKit
 
