@@ -1,9 +1,9 @@
 
 #  BMI Calculator
 
-*  My main goal is to develop an easy-to-use app that can calculate body mass index and designed with MVC design pattern.
+*  I just wanted to create an easy-to-use app that can calculate body mass index and designed with MVC design pattern.
 
-## What I learned
+## What I have learned and discovered
 
 * MVC design pattern
 * How to create multi-screen apps with animated navigation.
